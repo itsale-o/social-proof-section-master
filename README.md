@@ -29,7 +29,11 @@ Bellow there are two images of how my solution looks like for desktop and mobile
 
 ![](/images/desktop_solution.png)
 
+<div align="center">
+
 ![](/images/mobile_solution.png)
+
+</div>
 
 ### Links
 
