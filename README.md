@@ -37,8 +37,8 @@ Bellow there are two images of how my solution looks like for desktop and mobile
 
 ### Links
 
-- Solution URL: [My solution on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [My live solution](https://your-live-site-url.com)
+- Solution URL: [My solution on Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-master-solution-m9AYd0Hedy)
+- Live Site URL: [My live solution](https://itsale-o.github.io/social-proof-section-master/)
 
 ## My process
 
